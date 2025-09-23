@@ -86,10 +86,6 @@
 ![Unlock Tool 2025 Interface](https://gsmfirmwareteam.in/media/files/large/2024/03/18/95-1710767090.jpg)  
 *User-friendly interface for managing your device operations.*
 
-**Device Diagnostics**  
-![Device Diagnostics](https://forum.unlocktool.net/attachments/screenshot_17-jpg.10493/)  
-*Diagnose and troubleshoot device issues with ease.*
-
 **Firmware Management**  
 ![Firmware Management](https://i.ytimg.com/vi/K-AKY0XrjOc/maxresdefault.jpg)  
 *Manage firmware updates for various device models.*
