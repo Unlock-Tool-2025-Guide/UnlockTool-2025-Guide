@@ -20,10 +20,6 @@
 - ✅ **Community Engagement**: Connect with tech enthusiasts and professionals.  
 - ✅ **Workflow Tips**: Recommendations for efficient device management.  
 
-<a href="https://cutt.ly/WrNt59Yq" target="_blank">
-  <img src="https://img.shields.io/badge/Install_Guide-Now-9b6_%E2%86%92_3498db?style=gradient" alt="Install Guide Now" width="230height="45 style="border:none;">
-</a>
-
 ### 💻 System Requirements
 
 - **OS**: Windows 10/11 (64-bit)  
@@ -44,11 +40,7 @@
 - 🌍 **Global Compatibility**: Support for a wide range of devices.  
 - 📈 **Modern Practices**: Stay updated with 2025 tech trends.  
 - 🛡️ **Reliable Advice**: Trusted strategies for professional workflows.  
-
-<a href="https://cutt.ly/WrNt59Yq" target="_blank">
-  <img src="https://img.shields.io/badge/Install_Guide-Now-9b6_%E2%86%92_3498db?style=gradient" alt="Install Guide Now" width="230height="45 style="border:none;">
-</a>
-
+ 
 ### 📱 Usage Scenarios
 
 - 🔩 **Device Diagnostics**: Troubleshoot device issues with Unlock Tool.  
